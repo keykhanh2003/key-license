@@ -3,6 +3,10 @@
     "FacebookChecker": {
       "verion": "6.2",
       "price": "200,000"
+    },
+    "GetCookieTokenADB": {
+      "verion": "2.4",
+      "price": "300,000"
     }
   },
   "bank": {
