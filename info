@@ -1,7 +1,9 @@
 {
-  "FacebookChecker": {
-    "verion": "5.9",
-    "price": 200000
+  "ToolList": {
+    "FacebookChecker": {
+      "verion": "5.9",
+      "price": 200000
+    }
   },
   "bank": {
     "MOMO": "0962902397 | PHAM SY TRUONG",
