@@ -7,6 +7,14 @@
     "GetCookieTokenADB": {
       "verion": "2.4",
       "price": "300,000"
+    },
+    "MailHelper": {
+      "verion": "2.4",
+      "price": "500,000"
+    },
+    "DropProductManagerPro": {
+      "verion": "2.9",
+      "price": "200,000"
     }
   },
   "bank": {
