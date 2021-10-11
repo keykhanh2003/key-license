@@ -2,7 +2,7 @@
   "ToolList": {
     "FacebookChecker": {
       "verion": "5.9",
-      "price": 200,000
+      "price": "200,000"
     }
   },
   "bank": {
