@@ -35,6 +35,10 @@
     "EbayAssChecker": {
       "verion": "2.6",
       "price": "500,000"
+    },
+    "HotmailYahooChecker": {
+      "verion": "2.3",
+      "price": "300,000"
     }
   },
   "bank": {
