@@ -15,6 +15,14 @@
     "DropProductManagerPro": {
       "verion": "2.9",
       "price": "200,000"
+    },
+    "HotmailRegister": {
+      "verion": "7.4",
+      "price": "500,000"
+    },
+    "FBCommentSpammer": {
+      "verion": "6.2",
+      "price": "150,000"
     }
   },
   "bank": {
