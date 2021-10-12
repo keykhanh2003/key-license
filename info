@@ -23,6 +23,10 @@
     "FBCommentSpammer": {
       "verion": "6.2",
       "price": "150,000"
+    },
+    "DomainChecker": {
+      "verion": "2.8",
+      "price": "300,000"
     }
   },
   "bank": {
