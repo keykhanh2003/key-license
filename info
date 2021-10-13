@@ -39,6 +39,10 @@
     "HotmailYahooChecker": {
       "verion": "2.3",
       "price": "300,000"
+    },
+    "FacebookBMCreater": {
+      "verion": "3.2",
+      "price": "500,000"
     }
   },
   "bank": {
