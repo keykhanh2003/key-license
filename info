@@ -43,6 +43,10 @@
     "FacebookBMCreater": {
       "verion": "3.2",
       "price": "500,000"
+    },
+    "WalmartOrderChecker": {
+      "verion": "2.5",
+      "price": "500,000"
     }
   },
   "bank": {
