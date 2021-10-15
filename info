@@ -47,6 +47,10 @@
     "WalmartOrderChecker": {
       "verion": "2.5",
       "price": "300,000"
+    },
+    "AolChecker": {
+      "verion": "1.3",
+      "price": "300,000"
     }
   },
   "bank": {
