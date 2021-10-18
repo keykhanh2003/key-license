@@ -55,6 +55,10 @@
     "AolRegister": {
       "verion": "1.3",
       "price": "500,000"
+    },
+    "AbvBgChecker": {
+      "verion": "1.3",
+      "price": "500,000"
     }
   },
   "bank": {
