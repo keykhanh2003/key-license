@@ -28,6 +28,10 @@
       "verion": "6.2",
       "price": "150,000"
     },
+    "FBJoinLeave": {
+      "verion": "5.2",
+      "price": "200,000"
+    },
     "FBPostSpammer": {
       "verion": "6.2",
       "price": "200,000"
