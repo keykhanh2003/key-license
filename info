@@ -40,6 +40,10 @@
       "verion": "2.8",
       "price": "300,000"
     },
+    "GmailChecker": {
+      "verion": "1.4",
+      "price": "300,000"
+    },
     "EbayAssChecker": {
       "verion": "2.6",
       "price": "500,000"
