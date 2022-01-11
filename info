@@ -1,5 +1,5 @@
 {
-  "Notify": "SGnhu4duIHThuqFpIMSRw6MgY8OzIHRvb2wgcmVnIGJtfEhp4buHbiB04bqhaSDEkcOjIGPDsyB0b29sIHJlZyBwYWdl",
+  "Notify": "",
   "ToolList": {
     "FacebookChecker": {
       "verion": "6.2",
@@ -46,7 +46,7 @@
       "price": "300,000"
     },
     "FacebookInfoChecker": {
-      "verion": "4.7",
+      "verion": "4.8",
       "price": "500,000"
     },
     "FacebookPageCreater": {
