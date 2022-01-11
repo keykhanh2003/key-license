@@ -1,8 +1,6 @@
 {
+  "Notify": "Hiện tại đã có tool reg bm|Hiện tại đã có tool reg page",
   "ToolList": {
-    "Notify": {
-      "Notify": "Hiện tại đã có tool reg bm|Hiện tại đã có tool reg page"
-    },
     "FacebookChecker": {
       "verion": "6.2",
       "price": "300,000"
