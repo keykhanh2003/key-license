@@ -117,6 +117,10 @@
       "verion": "1.0",
       "price": "300,000"
     },
+    "FacebookBMReceiver": {
+      "verion": "3.9",
+      "price": "500,000"
+    },
     "FacebookBMCreater": {
       "verion": "3.9",
       "price": "500,000"
