@@ -118,16 +118,16 @@
       "price": "300,000"
     },
     "FacebookBMReceiver": {
-      "verion": "4.0",
+      "verion": "4.1",
       "price": "500,000"
     },
     "FacebookBMKichNolimit": {
       "verion": "4.4",
-      "price": "1,200,000"
+      "price": "1,000,000"
     },
     "FacebookBMKichNolimitCoSan": {
       "verion": "4.4",
-      "price": "1,200,000"
+      "price": "1,000,000"
     },
     "FacebookBMCreater": {
       "verion": "4.7",
