@@ -5,6 +5,10 @@
       "verion": "7.4",
       "price": "300,000"
     },
+    "MailComChecker": {
+      "verion": "5.1",
+      "price": "1,000,000"
+    },
     "FacebookLoginChecker": {
       "verion": "2.7",
       "price": "300,000"
