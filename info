@@ -13,6 +13,10 @@
       "verion": "2.7",
       "price": "300,000"
     },
+    "MailMiner": {
+      "verion": "2.3",
+      "price": "300,000"
+    },
     "LaposteNetChecker": {
       "verion": "1.3",
       "price": "500,000"
