@@ -153,6 +153,10 @@
       "verion": "5.1.4",
       "price": "500,000"
     },
+    "FacebookBMAll": {
+      "verion": "5.1.5",
+      "price": "500,000"
+    },
     "WalmartOrderChecker": {
       "verion": "2.5",
       "price": "500,000"
