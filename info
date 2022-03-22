@@ -9,7 +9,6 @@
       "verion": "1.7.4",
       "price": "500,000"
     },
-    
     "FacebookAddCredit": {
       "verion": "1.7.3",
       "price": "1,000,000"
@@ -188,7 +187,7 @@
     }
   },
   "bank": {
-    "MOMO": "0365.328.237 | HOA VAN DINH",
+    "MOMO": "0365.328.237 | HOA VAN DINH ",
     "VCB": "10234.99.535 | PHAM SY TRUONG"
   }
 }
