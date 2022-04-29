@@ -42,7 +42,7 @@
       "price": "1,000,000"
     },
     "FacebookChecker": {
-      "verion": "7.9",
+      "verion": "8.0",
       "price": "300,000"
     },
     "FacebookKhang273": {
@@ -54,7 +54,7 @@
       "price": "1,000,000"
     },
     "FacebookLoginChecker": {
-      "verion": "2.9",
+      "verion": "2.9.1",
       "price": "300,000"
     },
     "MailMiner": {
@@ -155,15 +155,15 @@
       "price": "500,000"
     },
     "HotmailYahooChecker": {
-      "verion": "2.9.1",
+      "verion": "2.9.2",
       "price": "350,000"
     },
     "HotmailChecker": {
-      "verion": "5.0",
+      "verion": "5.1",
       "price": "300,000"
     },
     "YahooChecker": {
-      "verion": "5.7",
+      "verion": "5.8",
       "price": "300,000"
     },
     "FacebookBackupBM": {
