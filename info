@@ -2,8 +2,8 @@
   "Notify": "  ",
   "ToolList": {
     "FacebookChangeTkqc": {
-      "verion": "1.9.7",
-      "price": "1,200,000"
+      "verion": "2.0.0",
+      "price": "1,500,000"
     },
     "FacebookAddCredit": {
       "verion": "1.7.3",
@@ -14,11 +14,11 @@
       "price": "1,000,000"
     },
     "FacebookBMAll": {
-      "verion": "5.8.8",
+      "verion": "5.9.0",
       "price": "1,500,000"
     },
     "FacebookPageAll": {
-      "verion": "1.9.8",
+      "verion": "2.0.0",
       "price": "1,500,000"
     },
     "FacebookQuanLyTKQC": {
