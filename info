@@ -5,6 +5,10 @@
       "verion": "2.0.4",
       "price": "1,500,000"
     },
+    "FacebookChangeAccount": {
+      "verion": "1.7.3",
+      "price": "1,500,000"
+    },
     "FacebookAddCredit": {
       "verion": "1.7.3",
       "price": "1,500,000"
